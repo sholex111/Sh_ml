@@ -315,3 +315,5 @@ new_test_data_pred_df <- data.frame(new_test_data_preproc,log_pred, log_pred_cla
 #try the prediction on non processed df
 #result is a disaster #lesson - always process your unseen data.
 
+
+            
